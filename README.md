@@ -1,4 +1,4 @@
-# 👋 Bienvenue chez AI HUB FRANCE ! 🤖🇫🇷
+# 👋 Bienvenue chez AI HUB FRANCE ! 🤖🌍
 
 Bienvenue sur le discord AI HUB FRANCE, la plateforme où les passionnés de l'intelligence artificielle se rassemblent pour explorer, apprendre et créer ensemble ! 🚀
 
