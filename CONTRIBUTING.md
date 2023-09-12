@@ -17,7 +17,7 @@ Pour garantir une expérience de collaboration fluide, veuillez prendre un momen
 
 ## Code de conduite
 
-AI HUB FRANCE suit un [Code de conduite] (CODE_OF_CONDUCT.md) qui établit les normes de participation respectueuse et inclusive dans notre communauté. Nous demandons à tous les contributeurs de respecter ces directives lorsqu'ils participent à des projets, discussions et événements d'AI HUB FRANCE.
+AI HUB FRANCE suit un [Code de conduite](CODE_OF_CONDUCT.md) qui établit les normes de participation respectueuse et inclusive dans notre communauté. Nous demandons à tous les contributeurs de respecter ces directives lorsqu'ils participent à des projets, discussions et événements d'AI HUB FRANCE.
 
 ## Façons de contribuer
 
