@@ -25,6 +25,6 @@ Vous avez des questions, des suggestions ou souhaitez entrer en contact avec la 
 - Site Internet : [www.aihubfrance.fr](https://aihubfrance.fr)
 - E-mail : contact@aihubfrance.fr
 - Twitter : [@AIHUBFRANCE](https://twitter.com/AIHUBFRANCE)
-- Discorde : [AI HUB FRANCE](https://discord.gg/aihubfr)
+- Discord : [AI HUB FRANCE](https://discord.gg/aihubfr)
 
 Plongez dans l'univers de l'IA avec AI HUB FRANCE et rejoignez-nous dès maintenant ! 🤗🔍
