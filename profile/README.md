@@ -16,7 +16,7 @@ Nous apprécions les contributions des développeurs, des passionnés d’IA et 
 
 ## 📝 Directives de contribution
 
-Nous apprécions et valorisons toutes les contributions à AI HUB FRANCE. Pour garantir une expérience de collaboration fluide, veuillez respecter nos directives de contribution. Vous pouvez trouver des informations détaillées dans le fichier de [CONTRIBUTION](CONTRIBUTING.md).
+Nous apprécions et valorisons toutes les contributions à AI HUB FRANCE. Pour garantir une expérience de collaboration fluide, veuillez respecter nos directives de contribution. Vous pouvez trouver des informations détaillées dans le fichier de [CONTRIBUTION](.github/CONTRIBUTING.md).
 
 ## 📞 Contactez-nous
 
