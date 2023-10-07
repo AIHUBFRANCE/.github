@@ -2,7 +2,7 @@
 
 👍🎉 Merci d'avoir envisagé de contribuer pour AI HUB FRANCE ! 🤖🌍
 
-Nous acceptons les contributions de chacun, quel que soit son niveau d’expertise ou d’expérience. En contribuant à IA Hispano, vous nous aidez non seulement à améliorer nos projets, mais vous favorisez également la croissance de la communauté de l'IA dans le monde hispanophone.
+Nous acceptons les contributions de chacun, quel que soit son niveau d’expertise ou d’expérience. En contribuant à AI HUB FRANCE, vous nous aidez non seulement à améliorer nos projets, mais vous favorisez également la croissance de la communauté de l'IA dans le monde francophone.
 
 Pour garantir une expérience de collaboration fluide, veuillez prendre un moment pour consulter les directives suivantes.
 
